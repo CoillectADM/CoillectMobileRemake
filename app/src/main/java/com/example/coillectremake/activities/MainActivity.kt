@@ -10,6 +10,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.coillectremake.R
 import com.example.coillectremake.components.SimpleComposeScreen
+import com.example.coillectremake.layouts.MainActivityLayout
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -18,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(
             ComposeView(this).apply {
                 setContent {
-                    SimpleComposeScreen()
+                    MainActivityLayout()
                 }
             }
         )
