@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Cores Primárias - Verde (Identidade Visual) -->
+    <color name="verde_principal">#1B8B3D</color>
+    <color name="verde_escuro">#145A2B</color>
+    <color name="verde_claro">#2EBD59</color>
+
+    <!-- Cores Neutras -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="gray_light">#E0E0E0</color>
+    <color name="gray_dark">#424242</color>
+
+    <!-- Cores de Feedback -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="warning">#FF9800</color>
+    <color name="info">#2196F3</color>
+
+    <!-- Cores de Background -->
+    <color name="background_primary">#F5F5F5</color>
+    <color name="background_secondary">#FAFAFA</color>
+    <color name="card_background">#232323</color>
+
+    <!-- Cores de Texto -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_dark">#212121</color>
+    <color name="text_light">#FFFFFF</color>
+
+    <!-- Cores de Borda -->
+    <color name="border_light">#E0E0E0</color>
+    <color name="border_dark">#212121</color>
+
+    <!-- Cores de Status Bar e Navigation -->
+    <color name="status_bar">#145A2B</color>
+    <color name="navigation_bar">#1B8B3D</color>
+
+    <!-- Cores de Overlay/Transparência -->
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#80FFFFFF</color>
+
+    <!-- Cores Específicas do App -->
+    <color name="splash_background">#1B8B3D</color>
+    <color name="login_background">#0D5A23</color>
+    <color name="cadastro_background">#0D5A23</color>
+    <color name="dashboard_background">#0D5A23</color>
+
+    <!-- Cores de Botões -->
+    <color name="btn_primary">#1B8B3D</color>
+    <color name="btn_primary_pressed">#145A2B</color>
+    <color name="btn_secondary">#E0E0E0</color>
+    <color name="btn_secondary_pressed">#BDBDBD</color>
+
+    <!-- Cores de Input/EditText -->
+    <color name="input_background">#FFFFFF</color>
+    <color name="input_border">#E0E0E0</color>
+    <color name="input_text">#212121</color>
+    <color name="input_hint">#999999</color>
+
+    <!-- Cores de Ícones -->
+    <color name="icon_primary">#1B8B3D</color>
+    <color name="icon_secondary">#FFFFFF</color>
+    <color name="icon_disabled">#B0B0B0</color>
+
+    <!-- Cores de Divider/Separadores -->
+    <color name="divider">#E0E0E0</color>
+    <color name="divider_dark">#424242</color>
+    <color name="backgroundDialog">#222222</color> <!-- ou use #FFFFFF, #333333 conforme desejado -->
+
 </resources>
