@@ -6,7 +6,9 @@ import android.os.Handler
 import android.os.Looper
 
 import androidx.appcompat.app.AppCompatActivity
+import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.ComposeView
+import androidx.compose.ui.tooling.preview.Preview
 
 import com.example.coillectremake.layouts.SplashActivityLayout
 
